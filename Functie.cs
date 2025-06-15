@@ -22,7 +22,7 @@ namespace Fuzzy
                     }
                     else
                     {
-                        // x1 = c; x2 = c + b; y1 = offset; y2 = pb.Height - offset; 
+                        // x1 = c; x2 = c + b; y1 = offset; y2 = pb.Height - offset;
                         N.vect[i] = a2 * i + b2;
                     }
                 else

@@ -26,7 +26,7 @@ namespace Fuzzy
         public int Min
         {
             get { return _min; }
-        } 
+        }
 
         public int Max
         {
@@ -54,7 +54,7 @@ namespace Fuzzy
             return (1 - y) * _hFactor + _offset;
         }
 
-        public float WFactor 
+        public float WFactor
         {
             get { return _wFactor; }
         }
