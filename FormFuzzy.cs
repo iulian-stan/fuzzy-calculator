@@ -145,7 +145,6 @@ namespace Fuzzy
             PictureBox pb = (PictureBox)sender;
             Graphics g = e.Graphics;
 
-
             if (null != B)
             {
                 Grafics.Sistem(g, gr);
